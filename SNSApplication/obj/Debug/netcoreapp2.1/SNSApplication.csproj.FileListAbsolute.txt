@@ -1,0 +1,11 @@
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\bin\Debug\netcoreapp2.1\SNSApplication.deps.json
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\bin\Debug\netcoreapp2.1\SNSApplication.runtimeconfig.json
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\bin\Debug\netcoreapp2.1\SNSApplication.runtimeconfig.dev.json
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\bin\Debug\netcoreapp2.1\SNSApplication.dll
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\obj\Debug\netcoreapp2.1\SNSApplication.csprojAssemblyReference.cache
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\obj\Debug\netcoreapp2.1\SNSApplication.csproj.CoreCompileInputs.cache
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\obj\Debug\netcoreapp2.1\SNSApplication.AssemblyInfoInputs.cache
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\obj\Debug\netcoreapp2.1\SNSApplication.AssemblyInfo.cs
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\bin\Debug\netcoreapp2.1\SNSApplication.pdb
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\obj\Debug\netcoreapp2.1\SNSApplication.dll
+C:\Users\luxkaywalker\source\repos\SNSApplication\SNSApplication\obj\Debug\netcoreapp2.1\SNSApplication.pdb
